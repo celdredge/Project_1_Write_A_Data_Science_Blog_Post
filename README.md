@@ -19,7 +19,8 @@ This analysis focused on a subset of the Stack Overflow survey dataset of nondev
 - re
 
 ## Files in the repository
-
+- Stack Overflow Data Analysis.ipynb - this file is a Jupyter notebook containing the code used for data analysis and modeling
+- README.md - this file with an overview of the project
 
 ## Summary of the results
 
