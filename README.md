@@ -10,3 +10,7 @@ The source data is available here https://www.kaggle.com/stackoverflow/so-survey
 4. What factors most affect job satisfaction?
 
 The Medium blog post is available here https://medium.com/@celdredge/what-does-it-take-for-job-satisfaction-in-data-science-35b7fe4cc32d
+
+Sources:
+GitHub repository: https://github.com/celdredge/Project_1_Write_A_Data_Science_Blog_Post
+Udacity data science coursework
